@@ -33,4 +33,7 @@ pip install -r requirements.txt
 
 
 Run the script:
-python fashion_mnist_cnn.py# BAN6420_MOD6_Assignment
+python fashion_mnist_cnn.py
+
+# BAN6420_MOD6_Assignment
+# BAN6420_MOD6_Assignment
