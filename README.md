@@ -23,11 +23,11 @@ You can download and install Python from [python.org](https://www.python.org/).
 
 You can install the required dependencies by creating a virtual environment and using the `requirements.txt` file provided:
 
-#### a) Create a Virtual Environment (Optional but Recommended)
+#### Create a Virtual Environment (Optional but Recommended)
 ```sh
 python -m venv venv
 
-Install Dependencies
+#### Install Dependencies
 Install the dependencies listed in the requirements.txt file:
 pip install -r requirements.txt
 
